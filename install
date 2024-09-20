@@ -1,0 +1,1 @@
+sudo curl -o /etc/apt/sources.list https://gist.githubusercontent.com/Dimitri-Maisonneuve/c6e99b4b5aa0516850b8ce75a02f2e20/raw/ubuntu_22.04_sources.list
